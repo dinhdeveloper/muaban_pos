@@ -48,6 +48,27 @@ switch ($detect) {
         include_once 'admin_board/customer_level_manager.php';
         break;
     }
+    case 'account_type_manager':
+    {
+        include_once 'admin_board/account_type_manager.php';
+        break;
+    }
+    case 'account_manager':
+    {
+        include_once 'admin_board/account_manager.php';
+        break;
+    }
+    case 'product_category_manager':
+    {
+        include_once 'admin_board/product_category_manager.php';
+        break;
+    }
+    case 'unit_manager':
+    {
+        include_once 'admin_board/unit_manager.php';
+        break;
+    }
+
 
     case 'table_manager':
     {

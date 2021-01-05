@@ -1,7 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="00686ebf-ff0e-4d0e-a3b8-2b41676bfcd3" name="Default Changelist" comment="" />
+    <list default="true" id="00686ebf-ff0e-4d0e-a3b8-2b41676bfcd3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/admin_board/account_manager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/admin_board/account_type_manager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/admin_board/product_category_manager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/api/admin_board/unit_manager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/product_category/dd1DSEJXVBAtvL8m2M9TKocANTMsX4ww128FlMJjasEZGNjzt30ojClNPjFD.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/product_category/oNzgBsjxIauJu9FJ8t87fO4OTFb1IjTXQTUkj6JlbbHpD72CCFCuD2ctg3cw.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/product_category/thkM6aVZdzzVu11bEgNkKoT9GlE9siMABoxnuLOxDP8mgHRvQdvCG4K9SG5a.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,13 +39,22 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1mb2h0y34E0zwo1ZqaWzpSRKNvq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../Helping" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -30,16 +68,37 @@
       <option name="presentableId" value="Default" />
       <updated>1609748084695</updated>
       <workItem from="1609748085790" duration="5625000" />
+      <workItem from="1609810281613" duration="2453000" />
+      <workItem from="1609812852003" duration="10444000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="500" y="190" key="FileChooserDialogImpl" timestamp="1609748917409">
       <screen x="0" y="0" width="1440" height="870" />
     </state>
     <state x="500" y="190" key="FileChooserDialogImpl/0.0.1440.870@0.0.1440.870" timestamp="1609748917409" />
+    <state x="554" y="358" key="NewPhpFileDialog" timestamp="1609820669220">
+      <screen x="0" y="0" width="1440" height="870" />
+    </state>
+    <state x="554" y="358" key="NewPhpFileDialog/0.0.1440.870@0.0.1440.870" timestamp="1609820669220" />
   </component>
 </project>
