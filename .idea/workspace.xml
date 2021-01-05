@@ -19,18 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="00686ebf-ff0e-4d0e-a3b8-2b41676bfcd3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/admin_board/account_manager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/admin_board/account_type_manager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/admin_board/product_category_manager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/api/admin_board/unit_manager.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product_category/dd1DSEJXVBAtvL8m2M9TKocANTMsX4ww128FlMJjasEZGNjzt30ojClNPjFD.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product_category/oNzgBsjxIauJu9FJ8t87fO4OTFb1IjTXQTUkj6JlbbHpD72CCFCuD2ctg3cw.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/product_category/thkM6aVZdzzVu11bEgNkKoT9GlE9siMABoxnuLOxDP8mgHRvQdvCG4K9SG5a.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/api/index.php" afterDir="false" />
-    </list>
+    <list default="true" id="00686ebf-ff0e-4d0e-a3b8-2b41676bfcd3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +58,7 @@
       <updated>1609748084695</updated>
       <workItem from="1609748085790" duration="5625000" />
       <workItem from="1609810281613" duration="2453000" />
-      <workItem from="1609812852003" duration="10444000" />
+      <workItem from="1609812852003" duration="10618000" />
     </task>
     <servers />
   </component>
